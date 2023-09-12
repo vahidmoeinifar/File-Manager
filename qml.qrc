@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ContentTable.qml</file>
+        <file>DateGrid.qml</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>TopMenu.qml</file>
+        <file>SearchFeild.qml</file>
+        <file>temp.qml</file>
+        <file>SeparatorLine.qml</file>
+        <file>DialogNewFolder.qml</file>
+    </qresource>
+</RCC>
